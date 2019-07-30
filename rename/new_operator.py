@@ -1,0 +1,4 @@
+
+
+class NewOperator:
+    pass
